@@ -359,7 +359,7 @@ screen main_menu():
     tag menu
 
     ## Home画面_なんか左に寄ってるし小さい
-    add "images/back/01_home仮.jpg"
+    add "images/backgrounds/home.jpg"
 
     ## 次の空のフレームは gui/overlay/main_menu.png を表示してメインメニューを
     ## 暗くしています。
